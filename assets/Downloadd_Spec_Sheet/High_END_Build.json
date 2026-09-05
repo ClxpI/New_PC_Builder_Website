@@ -1,0 +1,99 @@
+{
+  "name": "PCForge Build",
+  "currency": "GBP",
+  "totalBaseCost": 4759,
+  "parts": [
+    {
+      "id": "cpu_285k",
+      "cat": "CPU",
+      "name": "Intel Core Ultra 9 285K",
+      "price": 600,
+      "release_year": 2024,
+      "socket": "LGA1851",
+      "ram_type": "DDR5",
+      "tdp": 250,
+      "brand": "Intel",
+      "tags": [
+        "24 Cores",
+        "Arrow Lake"
+      ]
+    },
+    {
+      "id": "mb_z890",
+      "cat": "Motherboard",
+      "name": "Gigabyte Z890 AORUS MASTER",
+      "price": 550,
+      "release_year": 2024,
+      "socket": "LGA1851",
+      "ram_type": "DDR5",
+      "brand": "Gigabyte",
+      "tags": [
+        "ATX",
+        "Ultra Series"
+      ]
+    },
+    {
+      "id": "ram_ddr5_8200",
+      "cat": "RAM",
+      "name": "TeamGroup T-Force 64GB DDR5-8200",
+      "price": 350,
+      "release_year": 2025,
+      "ram_type": "DDR5",
+      "brand": "TeamGroup",
+      "tags": [
+        "64GB",
+        "Extreme Speed"
+      ]
+    },
+    {
+      "id": "gpu_5090",
+      "cat": "GPU",
+      "name": "NVIDIA GeForce RTX 5090",
+      "price": 1999,
+      "release_year": 2025,
+      "tdp": 500,
+      "brand": "NVIDIA",
+      "tags": [
+        "32GB VRAM",
+        "Blackwell"
+      ]
+    },
+    {
+      "id": "st_nvme5_2tb_t705",
+      "cat": "Storage",
+      "name": "Crucial T705 2TB",
+      "price": 300,
+      "release_year": 2024,
+      "brand": "Crucial",
+      "tags": [
+        "NVMe Gen5",
+        "14500 MB/s"
+      ]
+    },
+    {
+      "id": "psu_1600t",
+      "cat": "PSU",
+      "name": "Corsair AX1600i",
+      "price": 600,
+      "release_year": 2023,
+      "wattage": 1600,
+      "brand": "Corsair",
+      "tags": [
+        "1600W",
+        "80+ Titanium"
+      ]
+    },
+    {
+      "id": "case_y70",
+      "cat": "Case",
+      "name": "HYTE Y70 Touch",
+      "price": 360,
+      "release_year": 2024,
+      "brand": "HYTE",
+      "tags": [
+        "Mid Tower",
+        "Integrated Screen"
+      ]
+    }
+  ]
+}

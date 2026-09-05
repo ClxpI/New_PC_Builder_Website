@@ -1,0 +1,99 @@
+{
+  "name": "PCForge Build",
+  "currency": "GBP",
+  "totalBaseCost": 930,
+  "parts": [
+    {
+      "id": "cpu_13400f",
+      "cat": "CPU",
+      "name": "Intel Core i5-13400F",
+      "price": 180,
+      "release_year": 2023,
+      "socket": "LGA1700",
+      "ram_type": "DDR5",
+      "tdp": 148,
+      "brand": "Intel",
+      "tags": [
+        "10 Cores",
+        "Raptor Lake"
+      ]
+    },
+    {
+      "id": "mb_b660",
+      "cat": "Motherboard",
+      "name": "MSI PRO B660M-A",
+      "price": 130,
+      "release_year": 2022,
+      "socket": "LGA1700",
+      "ram_type": "DDR4",
+      "brand": "MSI",
+      "tags": [
+        "Micro ATX",
+        "Alder Lake"
+      ]
+    },
+    {
+      "id": "ram_ddr4_3200_3",
+      "cat": "RAM",
+      "name": "Crucial Ballistix 16GB DDR4-3200",
+      "price": 50,
+      "release_year": 2020,
+      "ram_type": "DDR4",
+      "brand": "Crucial",
+      "tags": [
+        "16GB",
+        "DDR4"
+      ]
+    },
+    {
+      "id": "gpu_3060",
+      "cat": "GPU",
+      "name": "NVIDIA GeForce RTX 3060",
+      "price": 280,
+      "release_year": 2021,
+      "tdp": 170,
+      "brand": "NVIDIA",
+      "tags": [
+        "12GB VRAM",
+        "Ampere"
+      ]
+    },
+    {
+      "id": "st_nvme4_1tb_p3p",
+      "cat": "Storage",
+      "name": "Crucial P3 Plus 1TB",
+      "price": 60,
+      "release_year": 2022,
+      "brand": "Crucial",
+      "tags": [
+        "NVMe Gen4",
+        "Value"
+      ]
+    },
+    {
+      "id": "psu_650g_2",
+      "cat": "PSU",
+      "name": "Corsair RM650x",
+      "price": 100,
+      "release_year": 2018,
+      "wattage": 650,
+      "brand": "Corsair",
+      "tags": [
+        "650W",
+        "80+ Gold"
+      ]
+    },
+    {
+      "id": "case_4000x",
+      "cat": "Case",
+      "name": "Corsair iCUE 4000X RGB",
+      "price": 130,
+      "release_year": 2020,
+      "brand": "Corsair",
+      "tags": [
+        "Mid Tower",
+        "RGB"
+      ]
+    }
+  ]
+}

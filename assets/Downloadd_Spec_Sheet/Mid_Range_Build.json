@@ -1,0 +1,99 @@
+{
+  "name": "PCForge Build",
+  "currency": "GBP",
+  "totalBaseCost": 1980,
+  "parts": [
+    {
+      "id": "cpu_7800x3d",
+      "cat": "CPU",
+      "name": "AMD Ryzen 7 7800X3D",
+      "price": 400,
+      "release_year": 2023,
+      "socket": "AM5",
+      "ram_type": "DDR5",
+      "tdp": 120,
+      "brand": "AMD",
+      "tags": [
+        "8 Cores",
+        "3D V-Cache"
+      ]
+    },
+    {
+      "id": "mb_b650",
+      "cat": "Motherboard",
+      "name": "ASUS ROG Strix B650E-F",
+      "price": 250,
+      "release_year": 2022,
+      "socket": "AM5",
+      "ram_type": "DDR5",
+      "brand": "ASUS",
+      "tags": [
+        "ATX",
+        "AM5 Mid"
+      ]
+    },
+    {
+      "id": "ram_ddr5_6000",
+      "cat": "RAM",
+      "name": "G.Skill Trident Z5 Neo 32GB DDR5-6000",
+      "price": 110,
+      "release_year": 2022,
+      "ram_type": "DDR5",
+      "brand": "G.Skill",
+      "tags": [
+        "32GB",
+        "AMD EXPO"
+      ]
+    },
+    {
+      "id": "gpu_4070tis",
+      "cat": "GPU",
+      "name": "NVIDIA GeForce RTX 4070 Ti SUPER",
+      "price": 800,
+      "release_year": 2024,
+      "tdp": 285,
+      "brand": "NVIDIA",
+      "tags": [
+        "16GB VRAM",
+        "Ada Lovelace"
+      ]
+    },
+    {
+      "id": "st_nvme4_2tb_sn850",
+      "cat": "Storage",
+      "name": "WD Black SN850X 2TB",
+      "price": 150,
+      "release_year": 2022,
+      "brand": "Western Digital",
+      "tags": [
+        "NVMe Gen4",
+        "7300 MB/s"
+      ]
+    },
+    {
+      "id": "psu_850g_2",
+      "cat": "PSU",
+      "name": "MSI MPG A850G",
+      "price": 140,
+      "release_year": 2022,
+      "wattage": 850,
+      "brand": "MSI",
+      "tags": [
+        "850W",
+        "ATX 3.0"
+      ]
+    },
+    {
+      "id": "case_h7f",
+      "cat": "Case",
+      "name": "NZXT H7 Flow",
+      "price": 130,
+      "release_year": 2022,
+      "brand": "NZXT",
+      "tags": [
+        "Mid Tower",
+        "Clean"
+      ]
+    }
+  ]
+}
