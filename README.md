@@ -9,7 +9,7 @@
 
 ## 🖥️ Application Interface
 
-*(Insert a screenshot or GIF of the PCForge interface here)*
+A single-page form-based build configurator: pick components from filterable dropdowns (brand, release year, price), watch live compatibility and power-draw feedback update as you go, and add the finished build to a shareable cart with currency conversion (GBP/USD/EUR).
 
 ---
 
@@ -37,5 +37,6 @@ This application runs entirely in the browser with no build tools or backend ser
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR_GITHUB]/PCForge-Builder.git
-```
+   git clone https://github.com/ClxpI/New_PC_Builder_Website.git
+   ```
+2. Open `index.html` directly in a browser — no build step required.
