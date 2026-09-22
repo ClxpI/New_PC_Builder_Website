@@ -11,6 +11,12 @@
 
 A single-page form-based build configurator: pick components from filterable dropdowns (brand, release year, price), watch live compatibility and power-draw feedback update as you go, and add the finished build to a shareable cart with currency conversion (GBP/USD/EUR).
 
+### Screenshots
+
+| Landing & Presets | Live Build in Progress |
+| :---: | :---: |
+| ![PCForge landing page with preset builds](assets/screenshots/hero-dark-mode.jpg) | ![Component selected, compatibility badge active, running total updating](assets/screenshots/build-in-progress.jpg) |
+
 ---
 
 ## 💻 Tech Stack & Architecture
